@@ -7,10 +7,11 @@
 - Einführung in grundlegende Programmierkonzepte  
   *(z. B. Variablen, Kontrollstrukturen, Funktionen, Objektorientierung)*
 - Überblick über moderne Softwareentwicklung mit Fokus auf KI-Anwendungen
-- Einführung in die Entwicklung von KI-gestützten Softwarelösungen und KI-Agenten
+- Einführung in die KI-unterstützte Software-Entwicklung
 - Installation und Einrichtung der benötigten Entwicklungsumgebungen und Frameworks
 
 ## 2. Einstieg in die OpenAI API (2 Stunden)
+- Einführung in die Entwicklung von KI-gestützten Softwarelösungen und KI-Agenten
 - Funktionsweise und Anwendungsbereiche der OpenAI API
 - Authentifizierung, grundlegende API-Abfragen und typische Nutzungsszenarien
 - Beispiele für Textgenerierung, Konversation und Aufgabenautomatisierung
