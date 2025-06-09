@@ -3,14 +3,14 @@
 
 # Trainingsplan – Übersicht
 
-## 1. Grundlagen & technischer Einstieg (3 Stunden)
+## 1. Grundlagen & technischer Einstieg (4 Stunden)
 - Einführung in grundlegende Programmierkonzepte  
   *(z. B. Variablen, Kontrollstrukturen, Funktionen, Objektorientierung)*
 - Überblick über moderne Softwareentwicklung mit Fokus auf KI-Anwendungen
 - Einführung in die KI-unterstützte Software-Entwicklung
 - Installation und Einrichtung der benötigten Entwicklungsumgebungen und Frameworks
 
-## 2. Einstieg in die OpenAI API (2 Stunden)
+## 2. Einstieg in die OpenAI API (4 Stunden)
 - Einführung in die Entwicklung von KI-gestützten Softwarelösungen und KI-Agenten
 - Funktionsweise und Anwendungsbereiche der OpenAI API
 - Authentifizierung, grundlegende API-Abfragen und typische Nutzungsszenarien
