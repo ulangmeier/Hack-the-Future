@@ -1,7 +1,7 @@
 # Hack-the-Future
 #### Dein Hands-on Einstieg in Künstliche Intelligenz
 
-# 1:1 Trainingsplan – Übersicht
+# Trainingsplan – Übersicht
 
 ## 1. Grundlagen & technischer Einstieg (3 Stunden)
 - Einführung in grundlegende Programmierkonzepte  
